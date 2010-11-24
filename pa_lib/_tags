@@ -1,0 +1,2 @@
+<camlscript_quotations.ml>: syntax_camlp4o,pkg_camlp4.quotations,pkg_jslib
+<camlscript_ast.ml>: syntax_camlp4o,pkg_camlp4.quotations,pkg_jslib

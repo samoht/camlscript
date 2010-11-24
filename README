@@ -1,0 +1,7 @@
+Camlscript is almost an embedded DSL for writing javascript in your OCaml programs.
+
+'almost' because actually, you write OCaml code fragments which are then compiled using ocamljs,
+at pre-processing time, into javascript AST. So you will need ocamljs installed to make it work.
+
+The project is not usable at all yet, I'm just prototyping it;
+the goal is to make Cass/HTCaML/CamlScript work well together.
